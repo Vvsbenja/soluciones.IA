@@ -1,0 +1,11 @@
+
+langchain
+openai
+faiss-cpu
+pypdf
+python-dotenv
+streamlit
+plotly
+scikit-learn
+pandas
+numpy
