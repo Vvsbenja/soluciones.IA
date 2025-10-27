@@ -22,6 +22,8 @@ El asistente soluciona esto con **búsqueda semántica + generación de respuest
 
 ---
 
+
+
 ##  Instalación
 
 Clonar el repositorio:
@@ -31,5 +33,10 @@ git clone https://github.com/tu-usuario/HuertoHogar-RAG.git
 cd HuertoHogar-RAG
 
 pip install -r requirements.txt
+```
+## Abrir el proyecto
+ En la terminal colocar .\.venv\Scripts\Activate.ps1 para abrir el venv
+ luego, una vez dentro, colocar: streamlit run (El nombre del archivo)
+y se abrira el localhost.
 
 
